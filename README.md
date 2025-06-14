@@ -1,4 +1,4 @@
-# AI-Driven-Plant-Disease-rediction-and-Management-System
+# AI-Driven-Plant-Disease-Prediction-and-Management-System
 📝 Project Description
 Agriculture plays a vital role in global food production and economic stability. One of the key challenges faced by farmers and agricultural professionals is the early and accurate detection of plant leaf diseases, which, if left untreated, can severely affect crop yield and quality. Traditional disease identification methods rely heavily on manual inspection by experts, which is not only time-consuming and costly but also prone to human error — especially in large-scale farming.
 
